@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TACC Life Sciences Computing Training
 
 ### Welcome!
@@ -52,6 +51,3 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 =======
 # TRAINING
 TACC Life Sciences Computing Training Collections
-
->>>>>>> 80338e813a6b897badbdbbe6a7f3d4cbfad6f6df
-

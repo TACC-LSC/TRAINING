@@ -28,7 +28,7 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 | --- |
 | |
 | [Introductory](/Curriculum/Introductory) |
-| <ul><li> [TACC Resources, Projects, &amp; Allocations](/Curriculum/Introductory/TACC) </li><li> [UT System Research Cyberinfrastructure \(UTRC\)](/Curriculum/Introductory/UTRC) </li><li> [Introduction to Linux](/Curriculum/Introductory/IntroToLinux) </li><li> [Best Practices in Data Management](/Curriculum/Introductory/DataManagement) </li><li> [Batch Job Submission](/Curriculum/Introductory/JobSubmission) </li><li> [Computational Tools](/Curriculum/Introductory/Tools) </li></ul> |
+| <ul><li> [TACC Resources, Projects, &amp; Allocations](https://github.com/TACC-LSC/TACC) </li><li> [UT System Research Cyberinfrastructure \(UTRC\)](/Curriculum/Introductory/UTRC) </li><li> [Introduction to Linux](https://github.com/TACC-LSC/IntroToLinux) </li><li> [Best Practices in Data Management](/Curriculum/Introductory/DataManagement) </li><li> [Batch Job Submission](/Curriculum/Introductory/JobSubmission) </li><li> [Computational Tools](/Curriculum/Introductory/Tools) </li></ul> |
 | [Advanced](/Curriculum/Advanced) |
 | <ul><li> [Programming the Xeon Phi](/Curriculum/Advanced/XeonPhi) </li><li> [Parallel Programming](/Curriculum/Advanced/ParallelProg) </li><li> [Virtual Machines and Cloud Computing](/Curriculum/Advanced/VirtualMachines) </li><li> [Software Applications](/Curriculum/Advanced/Applications) </li></ul> |
 

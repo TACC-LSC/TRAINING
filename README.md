@@ -4,7 +4,7 @@
 
 This github page is a repository of training materials and a past record of workshops offered by the TACC Life Sciences Computing group. We are currently exploring different methods for organizing and presenting these materials. Our main objectives in using github are:
 
-* Organize the course materials into an easily navigatable interface. 
+* Organize the course materials into an easily navigatable interface.
 * Present concise overviews of the course content.
 * Provide a centralized repository of course files (links to large files) for download.
 * Store a chronicle of past course offerings including institution, date, and course files.
@@ -14,8 +14,8 @@ This github page is a repository of training materials and a past record of work
 
 Everything in this repository falls under one of two categories: `Curriculum` or `Workshops`.
 
-* [Curriculum](Curriculum) is the catalog of all potential course offerings. Each course offering includes course objectives, instructional objectives, specific learning objectives, as well as course materials such as powerpoint slides, notes, and tar balls of hands-on activities.
-* [Workshops](Workshops) are actual snapshots of past course offerings. They are built around the objectives and materials in the `Curriculum`. Some `Workshops` combine objectives and materials from several courses. `Workshops` also include additional
+* [Curriculum](Curriculum) is the catalog of all potential course offerings (each one of which is actually its own *repository* ). Each course offering includes course objectives, instructional objectives, specific learning objectives, as well as course materials such as powerpoint slides, notes, and tar balls of hands-on activities.
+* [Workshops](Workshops) are actual snapshot repositories of past course offerings. They are built around the objectives and materials in the `Curriculum`. Some `Workshops` combine objectives and materials from several courses. `Workshops` also include additional
 information or materials specific to the host institution and / or presenter's teaching style.
 
 If you are a student, look below to start exploring the [`Curriculum`](#curr) or past [`Workshops`](#work). If you are a contributor, jump to [Instructions](Instructions.md) for preparing and uploading new content.
@@ -48,6 +48,3 @@ If you are a student, look below to start exploring the [`Curriculum`](#curr) or
 
 <br>
 &copy; 2015 Texas Advanced Computing Center
-=======
-# TRAINING
-TACC Life Sciences Computing Training Collections

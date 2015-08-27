@@ -6,7 +6,7 @@ This folder contains introductory-level materials from the TACC Life Sciences Co
 
 * [TACC Resources, Projects, &amp; Allocations](TACC)
 * [UT System Research Cyberinfrastructure \(UTRC\)](UTRC)
-* [Introduction to Linux](~/IntroToLinux)
+* [Introduction to Linux](https://github.com/TACC-LSC/IntroToLinux)
 * [Batch Job Submission](JobSubmission)
 * [Best Practices in Data Management](DataManagement)
 

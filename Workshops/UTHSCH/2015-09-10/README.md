@@ -44,7 +44,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> List benefits and capabilities of a command line interface. </li><li> Use all of the commands covered in this module. </li><li> Find documentation for unknown commands and flags. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> `Lab01.tar:` Naming and renaming directories for better organization. </li><li> `Lab02.tar:` Exploring large files (word lists and fasta). </li><li> `Lab03.tar:` Determine how to use previously unknown commands. </li></ul> |
+| <ul><li> `Lab01.tar:` Naming and renaming directories for better organization. </li><li> `Lab02.tar/Lab03.tar:` Exploring large files (word lists and fasta). </li><li> `Lab04.tar:` Determine how to use previously unknown commands. </li></ul> |
 
 <br/>
 **BREAK (5 min)**
@@ -58,7 +58,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Open, edit, and save documents with VIM. </li><li> Switch back and forth between insert mode and normal mode. </li><li> Navigate to different parts of a file quickly. </li><li> Search for a specific string of text. </li><li> Find and replace text. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> `Lab04.tar:` Curating gene sequence files for analysis. </li><li> Learn by practice! Dive headfirst into Module 3! </li><li> Other practice tools available: `vimtutor`, vim-adventures.com, openvim.org. </li></ul> |
+| <ul><li> `Lab05.tar:` Curating gene sequence files for analysis. </li><li> Learn by practice! Dive headfirst into Module 3! </li><li> Other practice tools available: `vimtutor`, vim-adventures.com, openvim.org. </li></ul> |
 
 <br>
 
@@ -70,7 +70,7 @@ This course is taught as an interactive workshop. Students will actively engage 
 | **Students should be able to...** |
 | <ul><li> Display their current environment variables. </li><li> Change existing and create new environment variables. </li><li> List modules currently loaded in their environment. </li><li> Load and unloaded modules. </li><li> Describe the effects of a module load command. </li><li> Automate module and environment commands in the .bash_profile. </li><li> Write batch job submission scripts. </li><li> Submit jobs to a queue. </li><li> Monitor jobs in a queue and delete jobs from a queue. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> `Lab09.tar:` Complete a batch submission script and submit. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
+| <ul><li> Display a list of all available modules. </li><li> Read the module description for packages you use. </li><li> `Lab06.tar:` Complete a batch submission script and submit. </li><li> Submit your first batch job. (This is dependent on system and allocation). </li></ul> |
 
 
 <br>
